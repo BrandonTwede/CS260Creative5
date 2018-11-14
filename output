@@ -1,0 +1,499 @@
+nohup: ignoring input
+Connected
+[0mGET / [32m200 [0m7.471 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.251 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m1.400 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.745 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.591 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m27.558 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.882 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m4.658 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.154 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.694 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.591 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.927 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.014 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m5.210 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.280 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.295 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.812 ms - -[0m
+[0mGET / [32m200 [0m6.934 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.032 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.609 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.715 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.567 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m19.043 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.433 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.529 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.907 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.235 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.977 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.071 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.376 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.982 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.032 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.232 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.199 ms - -[0m
+[0mGET / [32m200 [0m0.592 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m1.517 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m1.427 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.434 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.505 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m4.037 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.367 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.478 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.353 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.966 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.388 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.119 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.731 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.307 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.776 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.083 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m4.580 ms - -[0m
+[0mGET / [32m200 [0m0.532 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.497 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.367 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m1.839 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.492 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.737 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.311 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.925 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.598 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.577 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.159 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.899 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.295 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.224 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.335 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.510 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.547 ms - -[0m
+[0mGET / [32m200 [0m0.496 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.539 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.355 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m2.925 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.514 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.672 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.308 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.932 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m10.164 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.682 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.504 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.711 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.775 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.798 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.779 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.750 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.760 ms - -[0m
+[0mGET / [32m200 [0m0.487 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.481 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.332 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.487 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.496 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.338 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.318 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m6.081 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.936 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.927 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.814 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.473 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.952 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.679 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.912 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.012 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m10.875 ms - -[0m
+[0mGET / [32m200 [0m0.470 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.688 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.364 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.359 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.499 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.116 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.328 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.493 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.866 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.889 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.850 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.929 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.945 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.867 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.906 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.357 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.883 ms - -[0m
+[0mGET / [32m200 [0m0.486 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.990 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.327 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.386 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.504 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.620 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.329 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.899 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.890 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.672 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.663 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.609 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m8.160 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m7.233 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m4.341 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.732 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.751 ms - -[0m
+[0mGET / [32m200 [0m0.513 ms - 2307[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.407 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.341 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.719 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.864 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.646 ms - 80[0m
+[0mGET /favicon.ico [32m200 [0m0.315 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.878 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.794 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.919 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.100 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.700 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.325 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m2.281 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.462 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.808 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m7.514 ms - -[0m
+POST highscore route
+{ _id: 5becace8fb6e803b1ceb8e37,
+  Name: 'Brandon',
+  Points: '5900000' }
+{ _id: 5becace8fb6e803b1ceb8e37,
+  Name: 'Brandon',
+  Points: '5900000',
+  __v: 0 }
+[0mPOST /highscores [32m200 [0m36.208 ms - 2[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m3.215 ms - 159[0m
+[0mGET / [32m200 [0m0.525 ms - 2498[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.465 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.333 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.332 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.507 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.819 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.304 ms - 318[0m
+[0mGET / [32m200 [0m0.502 ms - 2499[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.509 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.364 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.488 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.500 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.904 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.332 ms - 318[0m
+[0mGET / [32m200 [0m0.501 ms - 2540[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.580 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.318 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.348 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.842 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.703 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.321 ms - 318[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.848 ms - -[0m
+[0mGET / [32m200 [0m0.798 ms - 2547[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.493 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.342 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.464 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m1.057 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.620 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.304 ms - 318[0m
+[0mGET / [32m200 [0m1.102 ms - 2529[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.498 ms - 1577[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m1.705 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.349 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.531 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.054 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.298 ms - 318[0m
+[0mGET / [32m200 [0m0.516 ms - 2547[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.531 ms - 1615[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.323 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.479 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m3.781 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.848 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.295 ms - 318[0m
+[0mGET / [32m200 [0m0.503 ms - 2559[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.481 ms - 1615[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.345 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.468 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m0.467 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.804 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.299 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.985 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m4.208 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.806 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.827 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.830 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m1.887 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.232 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m3.647 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m4.856 ms - -[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [36m304 [0m13.386 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.387 ms - -[0m
+[0mGET / [32m200 [0m0.481 ms - 2559[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.358 ms - 1615[0m
+[0mGET /loadingoverlay.min.js [32m200 [0m0.632 ms - 12037[0m
+[0mGET /plinko.js [32m200 [0m0.448 ms - 5227[0m
+[0mGET /stylesheets/board.png [32m200 [0m4.622 ms - 1167[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.939 ms - 159[0m
+[0mGET /favicon.ico [32m200 [0m0.312 ms - 318[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.850 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.944 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m3.101 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.956 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.972 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.948 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.910 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m1.844 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.532 ms - 159[0m
+In the GET route
+Scores successfully retrieved
+[0mGET /highscores [32m200 [0m2.214 ms - 159[0m
